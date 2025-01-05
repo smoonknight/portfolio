@@ -1,0 +1,235 @@
+[
+    {
+        "id": "classroom_chronicles",
+        "type": "Game",
+        "title": "Classroom Chronicles",
+        "project_date": "TBA",
+        "description": {
+            "id": [
+                "Classroom Chronicles adalah game bertema sekolah yang mengisahkan petualangan seorang sensei yang baru saja mulai mengajar di sekolah yang hampir ditutup karena kekurangan murid.",
+                "Pemain akan mengelola reputasi sekolah, berinteraksi dengan karakter-karakter unik, dan menghadapi tantangan untuk meningkatkan reputasi sekolah sambil membangun hubungan dengan murid-murid yang memiliki kepribadian dan hobi yang berbeda.",
+                "",
+                "Game ini dibuat oleh tim:",
+                "Satria Candra Winata - SMoonKnight (Game Designer, Sound Designer, Programmer, Scriptwriter) yang bertanggung jawab atas desain permainan, mekanika gameplay, pengembangan kode, serta penulisan naskah cerita dan dialog;",
+                "",
+                "firliakemiard (2D Artist, Concept Creator) yang menciptakan visual game, termasuk desain karakter, latar belakang, dan mengembangkan konsep visual yang menggambarkan dunia dan karakter dalam game;",
+                "",
+                "Admiral Dugong (Game Tester, QA) yang melakukan pengujian untuk menemukan bug, masalah teknis, serta memberikan feedback untuk perbaikan dan peningkatan kualitas permainan."
+            ]
+        },
+        "status": "TBA",
+        "image": "assets/img/portfolio/classroom_chronicles.png",
+        "images": [
+            "assets/img/portfolio/classroom_chronicles.png",
+            "assets/img/portfolio/classroom_chronicles/classroom_chronicles_0.png",
+            "assets/img/portfolio/classroom_chronicles/classroom_chronicles_1.png",
+            "assets/img/portfolio/classroom_chronicles/classroom_chronicles_2.png",
+            "assets/img/portfolio/classroom_chronicles/classroom_chronicles_3.png",
+            "assets/img/portfolio/classroom_chronicles/classroom_chronicles_4.png"
+        ],
+        "filters": ["filter-game", "filter-csharp"]
+    },
+    {
+        "id": "content_interaction_bot",
+        "type": "Software",
+        "title": "Content Interaction Bot",
+        "description": {
+            "id": [
+                "Mengembangkan sebuah aplikasi berbasis otomatisasi browser yang memanfaatkan Puppeteer dengan integrasi .NET dan Node.js, dirancang secara khusus untuk menjalankan bot interaksi konten pada berbagai situs web dengan tujuan meningkatkan keterlibatan pengguna melalui simulasi aktivitas yang realistis dan terstruktur."
+            ]
+        },
+        "status": "private",
+        "client_name": "Fadil",
+        "project_date": "04-10-2024",
+        "image": "assets/img/portfolio/content_interaction_bot.png",
+        "images": [
+            "assets/img/portfolio/content_interaction_bot.png",
+            "assets/img/portfolio/content_interaction_bot/content_interaction_bot_0.png"
+        ],
+        "filters": ["filter-software", "filter-csharp", "filter-javascript"]
+    },
+    {
+        "id": "voting_blockchain",
+        "type": "Website",
+        "title": "Voting Blockchain",
+        "description": {
+            "id": [
+                "Mengembangkan konsep integrasi teknologi blockchain dengan basis data SQL yang didukung oleh pemanfaatan side server menggunakan Express.js untuk membagi dan mengelola proses-proses penting seperti smart contract, wallet, dan transaksi, dengan menerapkan struktur chain pada basis data guna menciptakan sistem blockchain yang terdesentralisasi, serta menggunakan Laravel sebagai framework utama dalam perancangan dan pengembangan antarmuka website yang responsif dan dinamis."
+            ]
+        },
+        "status": "private",
+        "project_date": "08-12-2023",
+        "image": "assets/img/portfolio/voting_blockchain.png",
+        "images": [
+            "assets/img/portfolio/voting_blockchain.png",
+            "assets/img/portfolio/voting_blockchain/voting_blockchain_1.png",
+            "assets/img/portfolio/voting_blockchain/voting_blockchain_2.png",
+            "assets/img/portfolio/voting_blockchain/voting_blockchain_3.png",
+            "assets/img/portfolio/voting_blockchain/voting_blockchain_4.png",
+            "assets/img/portfolio/voting_blockchain/voting_blockchain_5.png"
+        ],
+        "filters": ["filter-website", "filter-php", "filter-javascript"]
+    },
+    {
+        "id": "nurse_curse",
+        "type": "Game",
+        "title": "Nurse's Curse (Neurotix)",
+        "client_name": "Brod.Inc",
+        "project_date": "17-08-2024",
+        "project_url": "https://play.google.com/store/apps/details?id=com.Brod.Inc.NursesCurse",
+        "status": "public",
+        "description": {
+            "id": [
+                "Menciptakan dan mengembangkan Nurse's Curse, sebuah permainan horor dengan atmosfer yang intens dan gameplay menegangkan. Permainan ini bertujuan untuk memberikan pengalaman menakutkan melalui desain mekanik yang mendalam, serta menghadirkan kecerdasan buatan (AI) musuh yang cerdas dan sistem navigasi yang membuat pemain selalu merasa terancam. Dengan Unity sebagai platform pengembangan, tim yang terlibat memiliki peran penting dalam mewujudkan dunia yang penuh ketegangan dan misteri yang mampu membuat pemain terus berada dalam suasana was-was sepanjang permainan.",
+                "",
+                "Satria Candra Winata - SMoonKnight (Game Designer, Programmer): Bertanggung jawab atas perancangan mekanik gameplay yang mendalam, pengembangan kecerdasan buatan (AI) musuh, dan pengelolaan sistem navigasi untuk menciptakan atmosfer horor yang intens dan gameplay yang menegangkan dalam permainan Nurse's Curse menggunakan Unity.",
+                "",
+                "Lintang (3D Artist, Scene Maker): Berperan dalam pembuatan aset 3D dan lingkungan permainan yang mendukung suasana horor, menciptakan adegan dan level yang memperkuat elemen ketegangan dan misteri dalam permainan.",
+                "",
+                "Iki Novaldi (3D Artist, Animator): Mengembangkan model karakter 3D dan animasi yang menciptakan rasa ketakutan dan kegelisahan, termasuk gerakan musuh dan efek visual yang intens, untuk meningkatkan pengalaman horor dalam permainan.",
+                "",
+                "Oka (2D Artist): Membuat desain antarmuka pengguna (UI) dan elemen grafis 2D lainnya yang mendukung atmosfer visual permainan, dengan penekanan pada elemen desain yang menciptakan rasa terintimidasi dan cemas.",
+                "",
+                "Bronzelani (Audio Designer): Bertanggung jawab atas pembuatan dan pengelolaan efek suara dan musik dalam permainan, menciptakan suasana audio yang mencekam dan mendalam, serta menambahkan ketegangan melalui suara latar dan efek suara yang tepat.",
+                "",
+                "Alfa (Concept Designer): Mengembangkan konsep visual dan ide-ide kreatif untuk karakter, lingkungan, dan cerita permainan, memberikan panduan bagi tim dalam menciptakan estetika horor yang konsisten dan mengerikan untuk Nurse's Curse."
+            ]
+        },
+        "image": "assets/img/portfolio/nurse_curse.png",
+        "images": [
+            "assets/img/portfolio/nurse_curse.png",
+            "assets/img/portfolio/nurse_curse/nurse_curse_0.png",
+            "assets/img/portfolio/nurse_curse/nurse_curse_1.png",
+            "assets/img/portfolio/nurse_curse/nurse_curse_2.png"
+        ],
+        "filters": ["filter-game", "filter-csharp"]
+    },
+    {
+        "id": "wirox",
+        "type": "Game",
+        "title": "WIROX RATS : 3D Rat Shooting",
+        "client_name": "Brod.Inc",
+        "project_date": "07-08-2024",
+        "project_url": "https://play.google.com/store/apps/details?id=com.Brod.Inc.RatHunt3DShooting",
+        "status": "public",
+        "description": {
+            "id": [
+                "Mengembangkan game first-person shooter (FPS) yang berfokus pada mekanisme tembak-menembak 3D, dengan berperan dalam merancang kecerdasan buatan (AI) musuh, membangun sistem navigasi yang responsif, serta mengimplementasikan mekanisme tembak-menembak yang realistis dan imersif menggunakan Unity sebagai platform pengembangan utama.",
+                "",
+                "Satria Candra Winata - SMoonKnight (Game Designer, Programmer): Bertanggung jawab atas perancangan mekanika gameplay, pengembangan sistem kecerdasan buatan (AI) musuh, implementasi navigasi, dan mekanisme tembak-menembak menggunakan Unity untuk menciptakan pengalaman bermain yang imersif dan realistis.",
+                "",
+                "Lintang (3D Artist, Scene Maker): Berperan dalam pembuatan aset 3D dan membangun lingkungan permainan, termasuk desain level dan tata letak adegan untuk mendukung atmosfer dan estetika permainan.",
+                "",
+                "Iki Novaldi (3D Artist, Animator): Mengembangkan model karakter 3D serta animasi yang dinamis dan realistis, termasuk gerakan musuh dan efek visual untuk memperkuat aksi tembak-menembak dalam permainan.",
+                "",
+                "Oka (2D Artist): Bertugas menciptakan ilustrasi 2D, desain antarmuka pengguna (UI), dan elemen grafis lainnya yang mendukung presentasi visual permainan serta memperkuat identitas artistik game."
+            ]
+        },
+        "image": "assets/img/portfolio/wirox.png",
+        "images": [
+            "assets/img/portfolio/wirox.png",
+            "assets/img/portfolio/wirox/wirox_0.png",
+            "assets/img/portfolio/wirox/wirox_1.png"
+        ],
+        "filters": ["filter-game", "filter-csharp"]
+    },
+    {
+        "id": "whatsapp_business_bot",
+        "type": "Software",
+        "title": "Whatsapp Business Bot",
+        "project_date": "14-12-2023",
+        "description": {
+            "id": [
+                "Mengembangkan aplikasi untuk WhatsApp Business menggunakan ADB (Android Debug Bridge) dan mengoptimalkannya untuk keperluan bisnis dengan memanfaatkan .NET dan Node.js, dengan tujuan meningkatkan efisiensi komunikasi dan otomatisasi dalam proses bisnis melalui integrasi fitur-fitur WhatsApp yang relevan."
+            ]
+        },
+        "status": "private",
+        "image": "assets/img/portfolio/whatsapp_business_bot.png",
+        "images": ["assets/img/portfolio/whatsapp_business_bot.png"],
+        "filters": ["filter-software", "filter-csharp", "filter-javascript"]
+    },
+    {
+        "id": "remedial_biru",
+        "type": "Software",
+        "title": "Remedial BIRU",
+        "project_date": "25-06-2023",
+        "description": {
+            "id": [
+                "Membuat aplikasi untuk menemukan rute terbaik dengan menggunakan algoritma Travelling Salesman Problem (TSP) dalam pengembangan .NET, yang bertujuan untuk mengoptimalkan perjalanan dengan mencari jalur terpendek yang menghubungkan semua titik yang harus dilalui. Aplikasi ini dirancang untuk membantu dalam perencanaan rute yang efisien, mengurangi waktu perjalanan dan biaya logistik."
+            ]
+        },
+        "status": "private",
+        "image": "assets/img/portfolio/remedial_biru.png",
+        "images": [
+            "assets/img/portfolio/remedial_biru.png",
+            "assets/img/portfolio/remedial_biru/remedial_biru_0.png",
+            "assets/img/portfolio/remedial_biru/remedial_biru_1.png",
+            "assets/img/portfolio/remedial_biru/remedial_biru_2.png"
+        ],
+        "filters": ["filter-software", "filter-csharp"]
+    },
+    {
+        "id": "plts_simulator",
+        "type": "Software",
+        "title": "PLTS Simulator",
+        "project_date": "14-01-2023",
+        "description": {
+            "id": [
+                "Membuat aplikasi simulasi pembangkit listrik tenaga surya secara 3D menggunakan Unity dan bahasa C#, yang bertujuan untuk memvisualisasikan dan mensimulasikan cara kerja pembangkit listrik tenaga surya, mulai dari penyerapan energi matahari hingga proses konversi energi menjadi listrik. Aplikasi ini memungkinkan pengguna untuk memahami dan mengeksplorasi konsep energi terbarukan dalam konteks yang interaktif dan imersif."
+            ]
+        },
+        "status": "public",
+        "project_url": "https://smoonknight.github.io/PLTS-Simulator/",
+        "image": "assets/img/portfolio/plts_simulator.png",
+        "images": [
+            "assets/img/portfolio/plts_simulator.png",
+            "assets/img/portfolio/plts_simulator/plts_simulator_0.png",
+            "assets/img/portfolio/plts_simulator/plts_simulator_1.png",
+            "assets/img/portfolio/plts_simulator/plts_simulator_2.png",
+            "assets/img/portfolio/plts_simulator/plts_simulator_3.png",
+            "assets/img/portfolio/plts_simulator/plts_simulator_4.png",
+            "assets/img/portfolio/plts_simulator/plts_simulator_5.png"
+        ],
+        "filters": ["filter-software", "filter-csharp"]
+    },
+    {
+        "id": "manachan",
+        "type": "Software",
+        "title": "Manachan",
+        "project_date": "12-05-2021",
+        "description": {
+            "id": [
+                "Membuat aplikasi chatbot berbasis desktop untuk manajemen tugas menggunakan WinForms dalam .NET Framework dengan bahasa C#, yang dirancang untuk membantu pengguna mengelola tugas-tugas harian mereka secara efisien. Aplikasi ini memanfaatkan kecerdasan buatan dalam bentuk chatbot untuk berinteraksi dengan pengguna, memberikan pengingat, serta mencatat dan mengatur prioritas tugas dengan cara yang mudah digunakan dan terorganisir."
+            ]
+        },
+        "status": "private",
+        "image": "assets/img/portfolio/manachan.png",
+        "images": ["assets/img/portfolio/manachan.png"],
+        "filters": ["filter-software", "filter-csharp"]
+    },
+    {
+        "id": "padangcyber",
+        "type": "Software",
+        "title": "Padangcyber",
+        "project_date": "23-02-2021",
+        "description": {
+            "id": [
+                "Membuat aplikasi pemesanan masakan Padang berbasis desktop menggunakan WinForms dalam .NET Framework dengan bahasa C#, yang terintegrasi dengan REST web service untuk koneksi database yang dikelola menggunakan Laravel framework dengan bahasa PHP. Aplikasi ini dirancang untuk memudahkan pelanggan dalam melakukan pemesanan masakan Padang secara praktis dan efisien, serta memungkinkan pengelola untuk mengelola data menu, pemesanan, dan pembayaran secara terpusat melalui koneksi yang aman dan responsif."
+            ]
+        },
+        "status": "private",
+        "image": "assets/img/portfolio/padangcyber.png",
+        "images": [
+            "assets/img/portfolio/padangcyber.png",
+            "assets/img/portfolio/padangcyber/padangcyber_0.png",
+            "assets/img/portfolio/padangcyber/padangcyber_1.png",
+            "assets/img/portfolio/padangcyber/padangcyber_2.png"
+        ],
+        "filters": [
+            "filter-software",
+            "filter-csharp",
+            "filter-php",
+            "filter-website"
+        ]
+    }
+]
