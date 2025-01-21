@@ -4,6 +4,7 @@
         "type": "Game",
         "title": "Classroom Chronicles",
         "project_date": "TBA",
+        "project_url": "https://whimsicalwonders.itch.io/classroom-chronicles",
         "description": {
             "id": [
                 "Classroom Chronicles adalah game bertema sekolah yang mengisahkan petualangan seorang sensei yang baru saja mulai mengajar di sekolah yang hampir ditutup karena kekurangan murid.",
@@ -17,7 +18,7 @@
                 "Admiral Dugong (Game Tester, QA) yang melakukan pengujian untuk menemukan bug, masalah teknis, serta memberikan feedback untuk perbaikan dan peningkatan kualitas permainan."
             ]
         },
-        "status": "TBA",
+        "status": "public",
         "image": "assets/img/portfolio/classroom_chronicles.png",
         "images": [
             "assets/img/portfolio/classroom_chronicles.png",
