@@ -191,7 +191,7 @@
             "assets/img/portfolio/plts_simulator/plts_simulator_4.png",
             "assets/img/portfolio/plts_simulator/plts_simulator_5.png"
         ],
-        "filters": ["filter-software", "filter-csharp"]
+        "filters": ["filter-software", "filter-game", "filter-csharp"]
     },
     {
         "id": "manachan",
