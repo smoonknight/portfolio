@@ -3,7 +3,8 @@ const portfolioContainer = document.querySelector('.row.gy-4.isotope-container')
 async function loadPortfolio() {
   const response = await fetch('data/portfolio.json');
   const portfolioItems = await response.json();
-
+  console.log(portfolioItems);
+  
   portfolioItems.forEach(item => {
     const filters = item.filters.join(' ');
     let portfolioHTML = `
