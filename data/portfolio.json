@@ -1,33 +1,5 @@
 [
     {
-        "id": "shot_shot_go",
-        "type": "Game",
-        "title": "Shot Shot Go",
-        "project_date": "15-06-2025",
-        "project_url": "https://smoonknight.itch.io/shot-shot-go",
-        "description": {
-            "id": [
-                "Shot Shot Go adalah game 2D action platformer cepat yang dibuat sebagai bagian dari technical test.",
-                "Pemain mengendalikan seorang pejuang gesit yang menavigasi dunia penuh warna bergaya lukisan tangan, melawan musuh dengan tembakan presisi dan gerakan lincah.",
-                "",
-                "Game ini menampilkan kontrol karakter yang responsif, sistem tembak-menembak dengan umpan balik instan, lingkungan platformer berlapis, serta efek visual dan suara yang memperkuat pengalaman bermain.",
-                "",
-                "Shot Shot Go sepenuhnya dikembangkan oleh saya sendiri, Satria Candra Winata (SMoonKnight), sebagai demonstrasi kemampuan teknis dalam desain game, pemrograman gameplay, serta pengintegrasian asset visual dan audio secara efektif.",
-                "",
-                "Game ini dirancang sebagai prototype yang menunjukkan inti gameplay yang tajam dan menarik dalam format demo yang ringkas."
-            ]
-        },
-        "status": "public",
-        "image": "assets/img/portfolio/shot_shot_go.png",
-        "images": [
-            "assets/img/portfolio/shot_shot_go.png",
-            "assets/img/portfolio/shot_shot_go/shot_shot_go_0.png",
-            "assets/img/portfolio/shot_shot_go/shot_shot_go_1.png",
-            "assets/img/portfolio/shot_shot_go/shot_shot_go_2.png"
-        ],
-        "filters": ["filter-game", "filter-csharp"]
-    },
-    {
         "id": "classroom_chronicles",
         "type": "Game",
         "title": "Classroom Chronicles",
